@@ -12,6 +12,6 @@ Rplit教育版：
 
 将以下代码粘贴至Replit Shell后回车
 
-`git clone https://github.com/valetzx/cloudreveonreplit && mv -b cloudreveonreplit/* ./ && mv -b cloudreveonreplit/.[^.]* ./ && rm -rf *~ && rm -rf cloudreveonreplit`
+`git clone https://github.com/valetzx/cloudreveonreplit && mv -b cloudreveonreplit/* ./ && mv -b cloudreveonreplit/.[^.]* ./ && rm -rf *~ && rm -rf cloudreveonreplit && chmod +x ./cloudreve`
 
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
